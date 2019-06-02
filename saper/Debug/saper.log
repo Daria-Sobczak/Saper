@@ -1,0 +1,8 @@
+﻿  Gra.cpp
+c:\users\daria\source\repos\saper2\saper\plansza.h(38): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\daria\source\repos\saper2\saper\gra.cpp(16): warning C4101: "opcja": lokalna zmienna, do której nie istnieje odwołanie
+  saper.cpp
+c:\users\daria\source\repos\saper2\saper\plansza.h(38): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\daria\source\repos\saper2\saper\saper.cpp(15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  saper.vcxproj -> C:\Users\Daria\source\repos\saper2\Debug\saper.exe
